@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<hmtl>
+<head><title> E-Portfolio </title></head>
+
+<style>
+
+body {background-image: url("https://th.bing.com/th/id/OSK.HERO4S1EDCRZZJSyHcrHWot-aqSyntbukSo-wZHX5z1NVO0?rs=1&pid=ImgDetMain");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% auto;
+}
+</style>
+
+<h1 style=" font-family:adelia; color:yellow; text-align:center;"> Some first quarter activities </h1>
+
+<table cellpadding="2" width="1000" cellspacing="50">
+<ul type="disc">
+<tr> 
+<th> <li> <a href="Who is Alfred.html" target="style=_self" style="color:#E75480; background-color:transparent; text-decoration:none;"> Who is Alfred </a> </li> </th>
+<th rowspan="2"> <table width="400"> <td> <p style="font-family:timesnewroman; color:yellow;"> This advanced chemistry performance task was done via online submission in which we discussed our topic given to us by group. </p> </td> </th> </table>
+<th> <video width="300" controls> <source src="Adchem presentation.mp4" type="video/mp4"> </video>
+</tr>
+<tr>
+<th> <li> <a href="E-Portfolio.html" target="style=_self" style="color:#E75480; background-color:transparent; text-decoration:none;"> Home </a> </li> </th> 
+</tr>
+<tr>
+<th>  <li> <a href="Did he learn anything.html" target="style=_self" style="color:#E75480; background-color:transparent; text-decoration:none;"> Did he learn anything? </a> </li> </th> 
+<th rowspan="2"> <table width="400"> <td> <p style="font-family:timesnewroman; color:yellow;"> This English performance task was to make a song with contractions. Basically using our lesson in english, we made a parody of lazy day. </p> </td> </th> </table>
+<th> <img src="Englishsong.png" style="float:right;" width="500">
+</tr>
+<tr>
+<th>  <li> <a href="Thoughts on the first quarter.html" target="_self" style="color:#E75480; background-color:transparent; text-decoration:none;"> Thoughts on the first quarter </a> </li> </th> 
+</tr>
+</ul>
+</table>
+
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Alfred</title>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table border="1">
+  <tr>
+    <th>A</th>
+    <th>B</th>
+  </tr>
+  <tr>
+    <td>V</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>S</td>
+  </tr>
+</table>
+
+</body>
+</html>

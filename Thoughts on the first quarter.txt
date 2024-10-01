@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<hmtl>
+<head><title> E-Portfolio </title></head>
+
+<style>
+
+body {background-image: url("https://th.bing.com/th/id/OSK.HERO4S1EDCRZZJSyHcrHWot-aqSyntbukSo-wZHX5z1NVO0?rs=1&pid=ImgDetMain");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% auto;
+}
+</style>
+
+<h1 style=" font-family:adelia; color:yellow; text-align:center;"> Alfred's reflection </h1>
+
+<table cellpadding="2" width="1000" cellspacing="50">
+
+<ul type="disc">
+<tr> 
+<th>  <li> <a href="Who is Alfred.html" target="style=_self" style="color:#E75480; background-color:transparent; text-decoration:none;"> Who is Alfred? </a> </li> </th> 
+<th rowspan="4"> <table width="300"> <td> <p style="font-family:timesnewroman; color:yellow;"> For the first quarter I think I did okay-ish. To be honest it isn't my greatest performance however I know I can do better. <br>
+The first quarter is just the start of my journey. I can and I know I will improve. I just need to lock in. Work harder and have a better study schedule. <br> 
+I would like to thank Miss Uminga for her teachings and her fun and exciting ways. With her help I can definitely keep up better in class. </p> </td> </table>
+<th> <tr><img src="Lock in.gif" alt="Get serious" style="float:right;" width="300"> </tr> </th>
+</tr>
+<tr>
+<th>  <li> <a href="What did he do during the first quarter.html" target="style=_self" style="color:#E75480; background-color:transparent; text-decoration:none;"> What did he do during the first quarter? </a> </li> </th> 
+</tr>
+<tr>
+<th>  <li> <a href="Did he learn anything.html" target="style=_self" style="color:#E75480; background-color:transparent; text-decoration:none;"> Did he learn anything? </a> </li> </th> 
+</tr>
+<tr>
+<th> <li> <a href="E-Portfolio.html" target="style=_self" style="color:#E75480; background-color:transparent; text-decoration:none;"> Home </a> </li> </th>
+</tr>
+</ul>
+</table>
+
+</body>
+</html>
